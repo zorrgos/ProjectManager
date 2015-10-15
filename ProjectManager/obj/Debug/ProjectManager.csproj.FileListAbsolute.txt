@@ -1,0 +1,33 @@
+E:\Универ\Projects\ProjectManager\ProjectManager\bin\Debug\ProjectManager.exe.config
+E:\Универ\Projects\ProjectManager\ProjectManager\obj\Debug\ProjectManager.csprojResolveAssemblyReference.cache
+E:\Универ\Projects\ProjectManager\ProjectManager\obj\Debug\ProjectManager.Properties.Resources.resources
+E:\Универ\Projects\ProjectManager\ProjectManager\obj\Debug\ProjectManager.csproj.GenerateResource.Cache
+E:\Универ\Projects\ProjectManager\ProjectManager\bin\Debug\ProjectManager.exe
+E:\Универ\Projects\ProjectManager\ProjectManager\bin\Debug\ProjectManager.pdb
+E:\Универ\Projects\ProjectManager\ProjectManager\obj\Debug\ProjectManager.exe
+E:\Универ\Projects\ProjectManager\ProjectManager\obj\Debug\ProjectManager.pdb
+E:\Универ\Projects\ProjectManager\ProjectManager\obj\Debug\ProjectManager.MainForm.resources
+E:\Универ\Projects\ProjectManager\ProjectManager\obj\Debug\ProjectManager.AutoriseForm.resources
+C:\Users\Виталий\Desktop\ProjectManager\ProjectManager\bin\Debug\ProjectManager.exe.config
+C:\Users\Виталий\Desktop\ProjectManager\ProjectManager\obj\Debug\ProjectManager.exe
+C:\Users\Виталий\Desktop\ProjectManager\ProjectManager\obj\Debug\ProjectManager.pdb
+C:\Users\Виталий\Desktop\ProjectManager\ProjectManager\bin\Debug\ProjectManager.exe
+C:\Users\Виталий\Desktop\ProjectManager\ProjectManager\bin\Debug\ProjectManager.pdb
+C:\Users\Виталий\Desktop\ProjectManager\ProjectManager\obj\Debug\ProjectManager.csprojResolveAssemblyReference.cache
+C:\Users\Виталий\Desktop\ProjectManager\ProjectManager\obj\Debug\ProjectManager.AutoriseForm.resources
+C:\Users\Виталий\Desktop\ProjectManager\ProjectManager\obj\Debug\ProjectManager.MainForm.resources
+C:\Users\Виталий\Desktop\ProjectManager\ProjectManager\obj\Debug\ProjectManager.Properties.Resources.resources
+C:\Users\Виталий\Desktop\ProjectManager\ProjectManager\obj\Debug\ProjectManager.csproj.GenerateResource.Cache
+C:\Users\Виталий\Desktop\Team\ProjectManager\ProjectManager\bin\Debug\ProjectManager.exe.config
+C:\Users\Виталий\Desktop\Team\ProjectManager\ProjectManager\obj\Debug\ProjectManager.exe
+C:\Users\Виталий\Desktop\Team\ProjectManager\ProjectManager\obj\Debug\ProjectManager.pdb
+C:\Users\Виталий\Desktop\Team\ProjectManager — копия\ProjectManager\bin\Debug\ProjectManager.exe.config
+C:\Users\Виталий\Desktop\Team\ProjectManager — копия\ProjectManager\obj\Debug\ProjectManager.exe
+C:\Users\Виталий\Desktop\Team\ProjectManager — копия\ProjectManager\obj\Debug\ProjectManager.pdb
+C:\Users\Виталий\Desktop\Team\ProjectManager — копия\ProjectManager\bin\Debug\ProjectManager.exe
+C:\Users\Виталий\Desktop\Team\ProjectManager — копия\ProjectManager\bin\Debug\ProjectManager.pdb
+C:\Users\Виталий\Desktop\Team\ProjectManager — копия\ProjectManager\obj\Debug\ProjectManager.csprojResolveAssemblyReference.cache
+C:\Users\Виталий\Desktop\Team\ProjectManager — копия\ProjectManager\obj\Debug\ProjectManager.AutoriseForm.resources
+C:\Users\Виталий\Desktop\Team\ProjectManager — копия\ProjectManager\obj\Debug\ProjectManager.MainForm.resources
+C:\Users\Виталий\Desktop\Team\ProjectManager — копия\ProjectManager\obj\Debug\ProjectManager.Properties.Resources.resources
+C:\Users\Виталий\Desktop\Team\ProjectManager — копия\ProjectManager\obj\Debug\ProjectManager.csproj.GenerateResource.Cache
